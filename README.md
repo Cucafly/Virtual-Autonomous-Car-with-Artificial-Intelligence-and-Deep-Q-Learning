@@ -1,2 +1,2 @@
 # Virtual-Autonomous-Car-with-Artificial-Intelligence-and-Deep-Q-Learning
-Construção de um carro autônomo virtual utilizando aprendizagem por reforço. Vamos utilizar técnicas modernas de Deep Learning com a biblioteca PyTorch e a linguagem Python.
+Construction of a virtual autonomous car using reinforcement learning. We will use modern Deep Learning techniques with the PyTorch library and the Python language.
